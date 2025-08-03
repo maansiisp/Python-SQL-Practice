@@ -1,9 +1,7 @@
-Show names of employees in the IT department
-
 //sql\\
 SELECT name 
 FROM employees
 WHERE department = 'IT';
 
-//py\\
+//python\\
 employees[employees ['Department'] == 'IT' ['name']]
