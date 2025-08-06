@@ -3,5 +3,5 @@ SELECT *
 FROM employees
 ORDER BY salary DESC 
 
-//python\\
+//Python\\
 Employees.sort_values(by='salary' , ascending=False)
